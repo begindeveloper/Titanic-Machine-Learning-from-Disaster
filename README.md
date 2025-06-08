@@ -117,9 +117,9 @@ titanic-ml-pipeline/
 
 ## 👩🏽‍💻 About the Author
 
-**Mary Ayisah-Eyeson**
-📍 Dallas, TX
-🎓 B.Sc. in Computer Information Systems
-📧 [msa.eyeson@gmail.com](mailto:msa.eyeson@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/mary-ayisah-eyeson)
-🔗 [Portfolio Website](https://begindeveloper.github.io/Webdevelopment/)
+**Mary Eyeson**
+Dallas, TX
+B.Sc. in Computer Information Systems
+[msa.eyeson@gmail.com](mailto:msa.eyeson@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mary-ayisah-eyeson)
+
