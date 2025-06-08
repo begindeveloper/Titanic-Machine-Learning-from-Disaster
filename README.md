@@ -1,5 +1,5 @@
 # Titanic-Machine Learning from Disaster
- This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works
+ This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the  [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic) platform works. The goal is to predict survival outcomes of passengers using machine learning, with a focus on automating the model selection and tuning process.
 
 
 # The Challenge
@@ -122,4 +122,3 @@ Dallas, TX
 B.Sc. in Computer Information Systems
 [msa.eyeson@gmail.com](mailto:msa.eyeson@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/mary-ayisah-eyeson)
-
